@@ -12,7 +12,7 @@ const config = {
   title: 'Secure Docus Gate',
   tagline: 'A secure Docusaurus site with URL parameter control',
   url: 'https://asakaguchi.github.io',
-  baseUrl: '/',
+  baseUrl: '/secure-docus-gate/',
   favicon: 'img/favicon.ico',
   organizationName: 'asakaguchi',
   projectName: 'secure-docus-gate',
